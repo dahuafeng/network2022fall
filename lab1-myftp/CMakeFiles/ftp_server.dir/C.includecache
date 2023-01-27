@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/psalmi/桌面/network/lab1/lab1-myftp-Psalmi23187/ftp_server.c
+header.h
+/home/psalmi/桌面/network/lab1/lab1-myftp-Psalmi23187/header.h
+
+/home/psalmi/桌面/network/lab1/lab1-myftp-Psalmi23187/header.h
+io.h
+/home/psalmi/桌面/network/lab1/lab1-myftp-Psalmi23187/io.h
+
+/home/psalmi/桌面/network/lab1/lab1-myftp-Psalmi23187/io.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+unistd.h
+-
+netdb.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+arpa/inet.h
+-
+errno.h
+-
+

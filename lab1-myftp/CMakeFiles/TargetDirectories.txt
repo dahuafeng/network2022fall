@@ -1,0 +1,5 @@
+/home/psalmi/桌面/network/lab1/lab1-myftp-Psalmi23187/CMakeFiles/rebuild_cache.dir
+/home/psalmi/桌面/network/lab1/lab1-myftp-Psalmi23187/CMakeFiles/edit_cache.dir
+/home/psalmi/桌面/network/lab1/lab1-myftp-Psalmi23187/CMakeFiles/test.dir
+/home/psalmi/桌面/network/lab1/lab1-myftp-Psalmi23187/CMakeFiles/ftp_client.dir
+/home/psalmi/桌面/network/lab1/lab1-myftp-Psalmi23187/CMakeFiles/ftp_server.dir
