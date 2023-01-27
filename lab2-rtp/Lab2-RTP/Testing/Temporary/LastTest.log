@@ -1,0 +1,679 @@
+Start testing: Nov 19 02:04 CST
+----------------------------------------------------------
+1/26 Testing: RTP.NO_FAILURE
+1/26 Test: RTP.NO_FAILURE
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.NO_FAILURE" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.NO_FAILURE" start time: Nov 19 02:04 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.NO_FAILURE
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.NO_FAILURE
+[0;32m[       OK ] [mRTP.NO_FAILURE (2771 ms)
+[0;32m[----------] [m1 test from RTP (2771 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (2771 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   2.78 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.NO_FAILURE" end time: Nov 19 02:04 CST
+"RTP.NO_FAILURE" time elapsed: 00:00:02
+----------------------------------------------------------
+
+2/26 Testing: RTP.NO_FAILURE_OPT
+2/26 Test: RTP.NO_FAILURE_OPT
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.NO_FAILURE_OPT" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.NO_FAILURE_OPT" start time: Nov 19 02:04 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.NO_FAILURE_OPT
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.NO_FAILURE_OPT
+[0;32m[       OK ] [mRTP.NO_FAILURE_OPT (2761 ms)
+[0;32m[----------] [m1 test from RTP (2761 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (2761 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   2.78 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.NO_FAILURE_OPT" end time: Nov 19 02:05 CST
+"RTP.NO_FAILURE_OPT" time elapsed: 00:00:02
+----------------------------------------------------------
+
+3/26 Testing: RTP.RECEIVER_TEST_LOST_DATA
+3/26 Test: RTP.RECEIVER_TEST_LOST_DATA
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.RECEIVER_TEST_LOST_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.RECEIVER_TEST_LOST_DATA" start time: Nov 19 02:05 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.RECEIVER_TEST_LOST_DATA
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.RECEIVER_TEST_LOST_DATA
+[0;32m[       OK ] [mRTP.RECEIVER_TEST_LOST_DATA (21998 ms)
+[0;32m[----------] [m1 test from RTP (21998 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (21998 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  22.01 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.RECEIVER_TEST_LOST_DATA" end time: Nov 19 02:05 CST
+"RTP.RECEIVER_TEST_LOST_DATA" time elapsed: 00:00:22
+----------------------------------------------------------
+
+4/26 Testing: RTP.RECEIVER_TEST_DUP_DATA
+4/26 Test: RTP.RECEIVER_TEST_DUP_DATA
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.RECEIVER_TEST_DUP_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.RECEIVER_TEST_DUP_DATA" start time: Nov 19 02:05 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.RECEIVER_TEST_DUP_DATA
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.RECEIVER_TEST_DUP_DATA
+[0;32m[       OK ] [mRTP.RECEIVER_TEST_DUP_DATA (21643 ms)
+[0;32m[----------] [m1 test from RTP (21643 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (21643 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  21.66 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.RECEIVER_TEST_DUP_DATA" end time: Nov 19 02:05 CST
+"RTP.RECEIVER_TEST_DUP_DATA" time elapsed: 00:00:21
+----------------------------------------------------------
+
+5/26 Testing: RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA
+5/26 Test: RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA" start time: Nov 19 02:05 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.RECEIVER_TEST_WRONG_CHKSUM_DATA
+[0;32m[       OK ] [mRTP.RECEIVER_TEST_WRONG_CHKSUM_DATA (22733 ms)
+[0;32m[----------] [m1 test from RTP (22733 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (22733 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  22.75 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA" end time: Nov 19 02:06 CST
+"RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA" time elapsed: 00:00:22
+----------------------------------------------------------
+
+6/26 Testing: RTP.RECEIVER_TEST_REORDER_DATA
+6/26 Test: RTP.RECEIVER_TEST_REORDER_DATA
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.RECEIVER_TEST_REORDER_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.RECEIVER_TEST_REORDER_DATA" start time: Nov 19 02:06 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.RECEIVER_TEST_REORDER_DATA
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.RECEIVER_TEST_REORDER_DATA
+[0;32m[       OK ] [mRTP.RECEIVER_TEST_REORDER_DATA (17445 ms)
+[0;32m[----------] [m1 test from RTP (17445 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (17445 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  17.45 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.RECEIVER_TEST_REORDER_DATA" end time: Nov 19 02:06 CST
+"RTP.RECEIVER_TEST_REORDER_DATA" time elapsed: 00:00:17
+----------------------------------------------------------
+
+7/26 Testing: RTP.RECEIVER_TEST_MIXED_1
+7/26 Test: RTP.RECEIVER_TEST_MIXED_1
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.RECEIVER_TEST_MIXED_1" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.RECEIVER_TEST_MIXED_1" start time: Nov 19 02:06 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.RECEIVER_TEST_MIXED_1
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.RECEIVER_TEST_MIXED_1
+[0;32m[       OK ] [mRTP.RECEIVER_TEST_MIXED_1 (19198 ms)
+[0;32m[----------] [m1 test from RTP (19198 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (19198 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  19.21 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.RECEIVER_TEST_MIXED_1" end time: Nov 19 02:06 CST
+"RTP.RECEIVER_TEST_MIXED_1" time elapsed: 00:00:19
+----------------------------------------------------------
+
+8/26 Testing: RTP.RECEIVER_TEST_MIXED_2
+8/26 Test: RTP.RECEIVER_TEST_MIXED_2
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.RECEIVER_TEST_MIXED_2" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.RECEIVER_TEST_MIXED_2" start time: Nov 19 02:06 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.RECEIVER_TEST_MIXED_2
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.RECEIVER_TEST_MIXED_2
+[0;32m[       OK ] [mRTP.RECEIVER_TEST_MIXED_2 (25134 ms)
+[0;32m[----------] [m1 test from RTP (25135 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (25135 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  25.15 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.RECEIVER_TEST_MIXED_2" end time: Nov 19 02:07 CST
+"RTP.RECEIVER_TEST_MIXED_2" time elapsed: 00:00:25
+----------------------------------------------------------
+
+9/26 Testing: RTP.SENDER_TEST_LOST_ACK
+9/26 Test: RTP.SENDER_TEST_LOST_ACK
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.SENDER_TEST_LOST_ACK" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.SENDER_TEST_LOST_ACK" start time: Nov 19 02:07 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.SENDER_TEST_LOST_ACK
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.SENDER_TEST_LOST_ACK
+[0;32m[       OK ] [mRTP.SENDER_TEST_LOST_ACK (15190 ms)
+[0;32m[----------] [m1 test from RTP (15190 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (15190 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  15.20 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.SENDER_TEST_LOST_ACK" end time: Nov 19 02:07 CST
+"RTP.SENDER_TEST_LOST_ACK" time elapsed: 00:00:15
+----------------------------------------------------------
+
+10/26 Testing: RTP.SENDER_TEST_DUP_ACK
+10/26 Test: RTP.SENDER_TEST_DUP_ACK
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.SENDER_TEST_DUP_ACK" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.SENDER_TEST_DUP_ACK" start time: Nov 19 02:07 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.SENDER_TEST_DUP_ACK
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.SENDER_TEST_DUP_ACK
+[0;32m[       OK ] [mRTP.SENDER_TEST_DUP_ACK (16222 ms)
+[0;32m[----------] [m1 test from RTP (16222 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (16222 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  16.24 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.SENDER_TEST_DUP_ACK" end time: Nov 19 02:07 CST
+"RTP.SENDER_TEST_DUP_ACK" time elapsed: 00:00:16
+----------------------------------------------------------
+
+11/26 Testing: RTP.SENDER_TEST_WRONG_CHKSUM_ACK
+11/26 Test: RTP.SENDER_TEST_WRONG_CHKSUM_ACK
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.SENDER_TEST_WRONG_CHKSUM_ACK" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.SENDER_TEST_WRONG_CHKSUM_ACK" start time: Nov 19 02:07 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.SENDER_TEST_WRONG_CHKSUM_ACK
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.SENDER_TEST_WRONG_CHKSUM_ACK
+[0;32m[       OK ] [mRTP.SENDER_TEST_WRONG_CHKSUM_ACK (14803 ms)
+[0;32m[----------] [m1 test from RTP (14803 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (14804 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  14.82 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.SENDER_TEST_WRONG_CHKSUM_ACK" end time: Nov 19 02:07 CST
+"RTP.SENDER_TEST_WRONG_CHKSUM_ACK" time elapsed: 00:00:14
+----------------------------------------------------------
+
+12/26 Testing: RTP.SENDER_TEST_REORDER_ACK
+12/26 Test: RTP.SENDER_TEST_REORDER_ACK
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.SENDER_TEST_REORDER_ACK" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.SENDER_TEST_REORDER_ACK" start time: Nov 19 02:07 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.SENDER_TEST_REORDER_ACK
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.SENDER_TEST_REORDER_ACK
+[0;32m[       OK ] [mRTP.SENDER_TEST_REORDER_ACK (15949 ms)
+[0;32m[----------] [m1 test from RTP (15949 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (15949 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  15.96 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.SENDER_TEST_REORDER_ACK" end time: Nov 19 02:08 CST
+"RTP.SENDER_TEST_REORDER_ACK" time elapsed: 00:00:15
+----------------------------------------------------------
+
+13/26 Testing: RTP.SENDER_TEST_MIXED_1
+13/26 Test: RTP.SENDER_TEST_MIXED_1
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.SENDER_TEST_MIXED_1" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.SENDER_TEST_MIXED_1" start time: Nov 19 02:08 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.SENDER_TEST_MIXED_1
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.SENDER_TEST_MIXED_1
+[0;32m[       OK ] [mRTP.SENDER_TEST_MIXED_1 (16276 ms)
+[0;32m[----------] [m1 test from RTP (16276 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (16276 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  16.29 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.SENDER_TEST_MIXED_1" end time: Nov 19 02:08 CST
+"RTP.SENDER_TEST_MIXED_1" time elapsed: 00:00:16
+----------------------------------------------------------
+
+14/26 Testing: RTP.SENDER_TEST_MIXED_2
+14/26 Test: RTP.SENDER_TEST_MIXED_2
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.SENDER_TEST_MIXED_2" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.SENDER_TEST_MIXED_2" start time: Nov 19 02:08 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.SENDER_TEST_MIXED_2
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.SENDER_TEST_MIXED_2
+[0;32m[       OK ] [mRTP.SENDER_TEST_MIXED_2 (14888 ms)
+[0;32m[----------] [m1 test from RTP (14888 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (14888 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  14.91 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.SENDER_TEST_MIXED_2" end time: Nov 19 02:08 CST
+"RTP.SENDER_TEST_MIXED_2" time elapsed: 00:00:14
+----------------------------------------------------------
+
+15/26 Testing: RTP.OPT_RECEIVER_TEST_LOST_DATA
+15/26 Test: RTP.OPT_RECEIVER_TEST_LOST_DATA
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.OPT_RECEIVER_TEST_LOST_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.OPT_RECEIVER_TEST_LOST_DATA" start time: Nov 19 02:08 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.OPT_RECEIVER_TEST_LOST_DATA
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.OPT_RECEIVER_TEST_LOST_DATA
+[0;32m[       OK ] [mRTP.OPT_RECEIVER_TEST_LOST_DATA (18160 ms)
+[0;32m[----------] [m1 test from RTP (18160 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (18160 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  18.17 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_RECEIVER_TEST_LOST_DATA" end time: Nov 19 02:09 CST
+"RTP.OPT_RECEIVER_TEST_LOST_DATA" time elapsed: 00:00:18
+----------------------------------------------------------
+
+16/26 Testing: RTP.OPT_RECEIVER_TEST_DUP_DATA
+16/26 Test: RTP.OPT_RECEIVER_TEST_DUP_DATA
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.OPT_RECEIVER_TEST_DUP_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.OPT_RECEIVER_TEST_DUP_DATA" start time: Nov 19 02:09 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.OPT_RECEIVER_TEST_DUP_DATA
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.OPT_RECEIVER_TEST_DUP_DATA
+[0;32m[       OK ] [mRTP.OPT_RECEIVER_TEST_DUP_DATA (15766 ms)
+[0;32m[----------] [m1 test from RTP (15766 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (15766 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  15.78 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_RECEIVER_TEST_DUP_DATA" end time: Nov 19 02:09 CST
+"RTP.OPT_RECEIVER_TEST_DUP_DATA" time elapsed: 00:00:15
+----------------------------------------------------------
+
+17/26 Testing: RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA
+17/26 Test: RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA" start time: Nov 19 02:09 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA
+[0;32m[       OK ] [mRTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA (18797 ms)
+[0;32m[----------] [m1 test from RTP (18797 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (18797 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  18.81 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA" end time: Nov 19 02:09 CST
+"RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA" time elapsed: 00:00:18
+----------------------------------------------------------
+
+18/26 Testing: RTP.OPT_RECEIVER_TEST_REORDER_DATA
+18/26 Test: RTP.OPT_RECEIVER_TEST_REORDER_DATA
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.OPT_RECEIVER_TEST_REORDER_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.OPT_RECEIVER_TEST_REORDER_DATA" start time: Nov 19 02:09 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.OPT_RECEIVER_TEST_REORDER_DATA
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.OPT_RECEIVER_TEST_REORDER_DATA
+[0;32m[       OK ] [mRTP.OPT_RECEIVER_TEST_REORDER_DATA (14286 ms)
+[0;32m[----------] [m1 test from RTP (14286 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (14286 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  14.30 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_RECEIVER_TEST_REORDER_DATA" end time: Nov 19 02:09 CST
+"RTP.OPT_RECEIVER_TEST_REORDER_DATA" time elapsed: 00:00:14
+----------------------------------------------------------
+
+19/26 Testing: RTP.OPT_RECEIVER_TEST_MIXED_1
+19/26 Test: RTP.OPT_RECEIVER_TEST_MIXED_1
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.OPT_RECEIVER_TEST_MIXED_1" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.OPT_RECEIVER_TEST_MIXED_1" start time: Nov 19 02:09 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.OPT_RECEIVER_TEST_MIXED_1
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.OPT_RECEIVER_TEST_MIXED_1
+[0;32m[       OK ] [mRTP.OPT_RECEIVER_TEST_MIXED_1 (17119 ms)
+[0;32m[----------] [m1 test from RTP (17120 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (17120 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  17.13 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_RECEIVER_TEST_MIXED_1" end time: Nov 19 02:10 CST
+"RTP.OPT_RECEIVER_TEST_MIXED_1" time elapsed: 00:00:17
+----------------------------------------------------------
+
+20/26 Testing: RTP.OPT_RECEIVER_TEST_MIXED_2
+20/26 Test: RTP.OPT_RECEIVER_TEST_MIXED_2
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.OPT_RECEIVER_TEST_MIXED_2" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.OPT_RECEIVER_TEST_MIXED_2" start time: Nov 19 02:10 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.OPT_RECEIVER_TEST_MIXED_2
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.OPT_RECEIVER_TEST_MIXED_2
+[0;32m[       OK ] [mRTP.OPT_RECEIVER_TEST_MIXED_2 (22328 ms)
+[0;32m[----------] [m1 test from RTP (22328 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (22328 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  22.34 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_RECEIVER_TEST_MIXED_2" end time: Nov 19 02:10 CST
+"RTP.OPT_RECEIVER_TEST_MIXED_2" time elapsed: 00:00:22
+----------------------------------------------------------
+
+21/26 Testing: RTP.OPT_SENDER_TEST_LOST_ACK
+21/26 Test: RTP.OPT_SENDER_TEST_LOST_ACK
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.OPT_SENDER_TEST_LOST_ACK" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.OPT_SENDER_TEST_LOST_ACK" start time: Nov 19 02:10 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.OPT_SENDER_TEST_LOST_ACK
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.OPT_SENDER_TEST_LOST_ACK
+[0;32m[       OK ] [mRTP.OPT_SENDER_TEST_LOST_ACK (14750 ms)
+[0;32m[----------] [m1 test from RTP (14750 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (14750 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  14.76 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_SENDER_TEST_LOST_ACK" end time: Nov 19 02:10 CST
+"RTP.OPT_SENDER_TEST_LOST_ACK" time elapsed: 00:00:14
+----------------------------------------------------------
+
+22/26 Testing: RTP.OPT_SENDER_TEST_DUP_ACK
+22/26 Test: RTP.OPT_SENDER_TEST_DUP_ACK
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.OPT_SENDER_TEST_DUP_ACK" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.OPT_SENDER_TEST_DUP_ACK" start time: Nov 19 02:10 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.OPT_SENDER_TEST_DUP_ACK
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.OPT_SENDER_TEST_DUP_ACK
+[0;32m[       OK ] [mRTP.OPT_SENDER_TEST_DUP_ACK (10757 ms)
+[0;32m[----------] [m1 test from RTP (10757 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (10757 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  10.77 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_SENDER_TEST_DUP_ACK" end time: Nov 19 02:10 CST
+"RTP.OPT_SENDER_TEST_DUP_ACK" time elapsed: 00:00:10
+----------------------------------------------------------
+
+23/26 Testing: RTP.OPT_SENDER_TEST_WRONG_CHKSUM_ACK
+23/26 Test: RTP.OPT_SENDER_TEST_WRONG_CHKSUM_ACK
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.OPT_SENDER_TEST_WRONG_CHKSUM_ACK" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.OPT_SENDER_TEST_WRONG_CHKSUM_ACK" start time: Nov 19 02:10 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.OPT_SENDER_TEST_WRONG_CHKSUM_ACK
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.OPT_SENDER_TEST_WRONG_CHKSUM_ACK
+[0;32m[       OK ] [mRTP.OPT_SENDER_TEST_WRONG_CHKSUM_ACK (14206 ms)
+[0;32m[----------] [m1 test from RTP (14206 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (14206 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  14.22 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_SENDER_TEST_WRONG_CHKSUM_ACK" end time: Nov 19 02:11 CST
+"RTP.OPT_SENDER_TEST_WRONG_CHKSUM_ACK" time elapsed: 00:00:14
+----------------------------------------------------------
+
+24/26 Testing: RTP.OPT_SENDER_TEST_REORDER_ACK
+24/26 Test: RTP.OPT_SENDER_TEST_REORDER_ACK
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.OPT_SENDER_TEST_REORDER_ACK" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.OPT_SENDER_TEST_REORDER_ACK" start time: Nov 19 02:11 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.OPT_SENDER_TEST_REORDER_ACK
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.OPT_SENDER_TEST_REORDER_ACK
+[0;32m[       OK ] [mRTP.OPT_SENDER_TEST_REORDER_ACK (10562 ms)
+[0;32m[----------] [m1 test from RTP (10562 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (10562 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  10.57 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_SENDER_TEST_REORDER_ACK" end time: Nov 19 02:11 CST
+"RTP.OPT_SENDER_TEST_REORDER_ACK" time elapsed: 00:00:10
+----------------------------------------------------------
+
+25/26 Testing: RTP.OPT_SENDER_TEST_MIXED_1
+25/26 Test: RTP.OPT_SENDER_TEST_MIXED_1
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.OPT_SENDER_TEST_MIXED_1" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.OPT_SENDER_TEST_MIXED_1" start time: Nov 19 02:11 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.OPT_SENDER_TEST_MIXED_1
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.OPT_SENDER_TEST_MIXED_1
+[0;32m[       OK ] [mRTP.OPT_SENDER_TEST_MIXED_1 (13879 ms)
+[0;32m[----------] [m1 test from RTP (13879 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (13879 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  13.89 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_SENDER_TEST_MIXED_1" end time: Nov 19 02:11 CST
+"RTP.OPT_SENDER_TEST_MIXED_1" time elapsed: 00:00:13
+----------------------------------------------------------
+
+26/26 Testing: RTP.OPT_SENDER_TEST_MIXED_2
+26/26 Test: RTP.OPT_SENDER_TEST_MIXED_2
+Command: "/home/psalmi/桌面/network/lab2/Lab2-RTP-Test/rtp_test_all" "--gtest_filter=RTP.OPT_SENDER_TEST_MIXED_2" "--gtest_also_run_disabled_tests"
+Directory: /home/psalmi/桌面/network/lab2/Lab2-RTP-Test
+"RTP.OPT_SENDER_TEST_MIXED_2" start time: Nov 19 02:11 CST
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = RTP.OPT_SENDER_TEST_MIXED_2
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RTP
+[0;32m[ RUN      ] [mRTP.OPT_SENDER_TEST_MIXED_2
+[0;32m[       OK ] [mRTP.OPT_SENDER_TEST_MIXED_2 (15322 ms)
+[0;32m[----------] [m1 test from RTP (15322 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (15322 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =  15.34 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_SENDER_TEST_MIXED_2" end time: Nov 19 02:11 CST
+"RTP.OPT_SENDER_TEST_MIXED_2" time elapsed: 00:00:15
+----------------------------------------------------------
+
+End testing: Nov 19 02:11 CST
